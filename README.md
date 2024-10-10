@@ -16,8 +16,8 @@ Delivery Route Optimizer is a cutting-edge web application designed to streamlin
 ## 🛠️ Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/delivery-route-optimizer.git](https://github.com/crazycoder35/DeliveryRouteOptimizer)
-   cd delivery-route-optimizer
+   git clone https://github.com/crazycoder35/DeliveryRouteOptimizer.git
+   cd DeliveryRouteOptimizer
    ```
 
 2. Install dependencies:
